@@ -11,3 +11,7 @@
 + `git diff`                     - Show differences between file versions
 + `git checkout [HEAD] <file>` - Revert to last commit of a file (only works when nothing's staged)
 + `git reset HEAD <file>`        - Discard staged changes to a file
++ `git push <remote> <branch>` - send changes in local repository to a remote repository branch
++ `git pull <remote> <branch>  - get changes from remote repository into local repository
+
+Forking a Repository: Create a complete copy of an existing Github repository to enable collaboration or stealing
