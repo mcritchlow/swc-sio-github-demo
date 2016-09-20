@@ -9,3 +9,5 @@
 + `git commit -m`                - Commit all pending changes that were added, w a commit message
 + `git log`                      - Show past commit history in reverse chronological order
 + `git diff`                     - Show differences between file versions
++ `git checkout [HEAD] <file>` - Revert to last commit of a file (only works when nothing's staged)
++ `git reset HEAD <file>`        - Discard staged changes to a file
